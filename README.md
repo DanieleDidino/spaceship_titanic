@@ -4,4 +4,4 @@ This is a Kaggle competition and can be found [here](https://www.kaggle.com/comp
 
 ### Language Used : Python --version: 3.9.5
 
-Best Score: ??????
+Best Score: 0.79939 with XGBooxt
