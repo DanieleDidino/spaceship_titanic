@@ -1,6 +1,7 @@
 # Spaceship Titanic
 
-Spaceship Titanic dataset (Kaggle)
+This is a Kaggle competition and can be found [here](https://www.kaggle.com/competitions/spaceship-titanic/overview)
 
+### Language Used : Python --version: 3.9.5
 
-Score: ??????
+Best Score: ??????
